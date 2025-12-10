@@ -23,12 +23,14 @@ A simple **BMI (Body Mass Index) Calculator** app built with **Flutter**. This a
 ## Screenshots
 
 ![BMI Logo](images/bmihome.png)
+![BMI Logo](images/underweight.png)
+![BMI Logo](images/normal.png)
+![BMI Logo](images/overweight.png)
+![BMI Logo](images/obesity.png)
 
-*Add more screenshots here showing the input fields and BMI result.*
 
 ---
 
-## Getting Started
 
 ### Prerequisites
 
@@ -43,7 +45,7 @@ A simple **BMI (Body Mass Index) Calculator** app built with **Flutter**. This a
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/bmi_calculator_flutter.git
+git clone https://github.com/abdulazizpatwary/BMI_Apps.git
 
 
 
